@@ -1,4 +1,4 @@
-package com.example.api.service;
+package com.bankonline.service;
 
 import com.bankonline.controller.model.User;
 import lombok.extern.slf4j.Slf4j;

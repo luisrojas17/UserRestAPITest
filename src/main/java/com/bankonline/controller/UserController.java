@@ -1,4 +1,4 @@
-package com.example.api.controller;
+package com.bankonline.controller;
 
 import com.bankonline.controller.model.User;
 import com.bankonline.service.UserService;
