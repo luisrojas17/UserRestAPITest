@@ -1,4 +1,4 @@
-package com.bankonline.controller.model;
+package com.example.api.controller.model;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.bankonline.service;
+package com.example.api.service;
 
-import com.bankonline.controller.model.User;
+import com.example.api.controller.model.User;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ParameterizedTypeReference;

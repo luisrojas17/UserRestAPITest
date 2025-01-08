@@ -1,7 +1,7 @@
-package com.bankonline.controller;
+package com.example.api.controller;
 
-import com.bankonline.controller.model.User;
-import com.bankonline.service.UserService;
+import com.example.api.controller.model.User;
+import com.example.api.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
